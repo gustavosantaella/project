@@ -1,0 +1,36 @@
+
+.banner{
+	background-image: url('../img/gif/binary.gif');
+	background-repeat: no-repeat;
+	height: 40vh;
+	background-size: 100% 100%;
+	text-align: center;
+	padding: 100px;
+	opacity: 0.9;
+
+}
+
+/*html,.containerBlack{
+		background-color: black;
+}
+*/
+
+
+.container-fluid{
+	height: 100vh;
+}
+
+.imgyo{
+	padding: 0 50px;
+	height: 30vh;
+	border-radius: 50%;
+}
+
+
+.instagram{
+	  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+          /* Also define standard property for compatibility */
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
