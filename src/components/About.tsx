@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import '../css/style.css';
-/*import $ from 'jquery';*/
 import image from '../img/image.jpg'
 import Button from '@material-ui/core/Button';
 
