@@ -2,7 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
-  "homepages": "http://gustavosantaella.io/project",
+  "homepages": "http://gustavosantaella.github.io/project",
   "engines": {
     "node": "14.15.3",
     "npm": "6.14.10"
